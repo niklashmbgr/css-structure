@@ -1,0 +1,25 @@
+.header {
+  background: greenyellow;
+  color: black;
+}
+
+.header_headline {
+  color: blue;
+}
+
+.header_navlist {
+  display: flex;
+  flex-direction: column;
+}
+
+.header_navlist_1 {
+  margin: 10px;
+}
+
+.header_navlist_2 {
+  margin: 10px;
+}
+
+.header_navlist_2--active {
+  text-decoration: overline;
+}
